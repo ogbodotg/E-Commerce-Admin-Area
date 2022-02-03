@@ -1,6 +1,6 @@
-# ahia_admin
+# E-Commerce Admin Web App
 
-A new Flutter project.
+Ecommerce Web Admin Area. Built with Flutter and Firebase.
 
 ## Getting Started
 
